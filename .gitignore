@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Custom folders
-data/
+lightning_logs/
 .DS_Store
